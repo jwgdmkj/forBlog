@@ -29,7 +29,13 @@ My research primary interests lie in developing efficient and lightweight vision
   **Jeongsoo Kim** , Jongho Nang, Junsuk Choe+  
   *Workshop of International Conference on Computer Vision (ICCV)*, 2025.  
   [[Paper](https://openaccess.thecvf.com/content/ICCV2025W/AIM/html/Kim_LMLT__Low-to-high_Multi-Level_Vision_Transformer_for_Lightweight_Image_Super-Resolution_ICCVW_2025_paper.html)] [[Code](https://github.com/jwgdmkj/LMLT)] [[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NqAtWGQAAAAJ&citation_for_view=NqAtWGQAAAAJ:d1gkVwhDpl0C)]
-  
+
+
+### 🌐 Preprints (arXiv)
+* **SeoUL: Semantic-Centric Alignment for Universal Cross-Domain Retrieval with Multimodal Large Language Models**  
+  *Under Peer Review*, 2026.  
+
+
 ---
 
 ## Links
