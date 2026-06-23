@@ -40,6 +40,13 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 
 ---
 
+### 🔍 Review (or Academic Service)
+* **Journal Reviewer**
+  * IEEE Transactions on Image Processing (TIP)
+
+
+---
+
 ### 🎓 Education
 
 * **M.S. in Computer Science**, Sogang University, 2024
