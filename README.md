@@ -27,6 +27,6 @@ My research primary interests lie in developing efficient and lightweight vision
 
 ## links
 
-* 🔗 [Google Scholar](본인의_구글스칼라_링크_주소)
+* 🔗 [Google Scholar](https://scholar.google.com/citations?user=NqAtWGQAAAAJ&hl=en)
 * 💻 [GitHub Profile](https://github.com/jwgdmkj)
 * ✉️ [Email](mailto:jskim1@sogang.ac.kr)
