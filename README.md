@@ -2,8 +2,9 @@
 
 I am an **Independent Researcher** based in Hiroshima, Japan. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
 
-My research primary interests lie in developing efficient and lightweight vision models, aiming to reduce computational overhead while maintaining high performance on practical hardware.
+My research primarily focuses on **building highly efficient vision models** and **diagnosing/resolving structural or algorithmic bottlenecks** to bridge the gap between theoretical models and practical hardware deployment. 
 
+Driven by curiosity and a passion for community-driven AI, **I am always open to new research collaborations, discussions, and academic opportunities.** Feel free to reach out if you would like to discuss potential projects or simply connect!
 ---
 
 ## News
@@ -11,7 +12,7 @@ My research primary interests lie in developing efficient and lightweight vision
 * **Jun 2026**: 🎉 Our paper **CUST** has been accepted to **ECCV 2026**!
 * **Apr 2026**: I have started my job at Mazda Motor Corporation.
 * **Aug 2025**: 🎉 Our paper **LMLT** has been accepted to **ICCV 2025 Workshop**!
-* **Aug 2024**: Graduated with an M.S. in Artificial Intelligence from Sogang University.
+* **Aug 2024**: Graduated with an M.S. in Computer Science from Sogang University.
 
 ---
 
