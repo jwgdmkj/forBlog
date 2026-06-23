@@ -1,4 +1,4 @@
-## about me
+## About me
 
 I am an **Independent Researcher** based in Hiroshima, Japan. I recently obtained my M.S. in Computer Science from **Sogang University**, where I focused on computer vision and deep learning. 
 
@@ -6,7 +6,7 @@ My research primary interests lie in developing efficient and lightweight vision
 
 ---
 
-## news
+## News
 
 * **Jun 2026**: 🎉 Our paper **CUST** has been accepted to **ECCV 2026**!
 * **Aug 2025**: 🎉 Our paper **LMLT** has been accepted to **ICCV 2025 Workshop**!
@@ -14,7 +14,7 @@ My research primary interests lie in developing efficient and lightweight vision
 
 ---
 
-## publications
+## Publications
 
 ### 📄 International Conferences
 
