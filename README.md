@@ -18,7 +18,7 @@ My research primary interests lie in developing efficient and lightweight vision
 
 ### 📄 International Conferences
 
-* **CUST: Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
+* **CUST : Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
   **Jeongsoo Kim**  
   *European Conference on Computer Vision (ECCV)*, 2026.  
   [[Paper](https://jskim1.github.io)] [[Code](https://github.com/jwgdmkj/CUST)] [[Google Scholar](본인의_구글스칼라_링크_주소)]
