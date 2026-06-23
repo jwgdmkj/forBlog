@@ -24,10 +24,10 @@ My research primary interests lie in developing efficient and lightweight vision
   [[Paper](https://jskim1.github.io)] [[Code](https://github.com/jwgdmkj/CUST)] [[Google Scholar](본인의_구글스칼라_링크_주소)]
 
 
-* **CUST: Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
+* **LMLT: Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution**  
   **Jeongsoo Kim, Jongho Nang, Junsuk Choe**  
   *Workshop of International Conference on Computer Vision (ICCV)*, 2025.  
-  [[Paper](https://jskim1.github.io)] [[Code](https://github.com/jwgdmkj/LMLT)] [[Google Scholar](본인의_구글스칼라_링크_주소)]
+  [[Paper](https://jskim1.github.io)] [[Code](https://github.com/jwgdmkj/LMLT)] [[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NqAtWGQAAAAJ&citation_for_view=NqAtWGQAAAAJ:d1gkVwhDpl0C)]
   
 ---
 
