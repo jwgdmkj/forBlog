@@ -40,6 +40,14 @@ Driven by curiosity and a passion for community-driven AI, **I am always open to
 
 ---
 
+### 🎓 Education
+
+* **M.S. in Computer Science**, Sogang University, 2024
+  * *Specialization:* Computer Vision & Deep Learning
+* **B.S. in Computer Science, Chinese Culture**, Sogang University, 2022
+
+---
+
 ## Links
 
 * 🔗 [Google Scholar](https://scholar.google.com/citations?user=NqAtWGQAAAAJ&hl=en)
