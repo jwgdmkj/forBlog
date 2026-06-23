@@ -31,7 +31,7 @@ My research primary interests lie in developing efficient and lightweight vision
   
 ---
 
-## links
+## Links
 
 * 🔗 [Google Scholar](https://scholar.google.com/citations?user=NqAtWGQAAAAJ&hl=en)
 * 💻 [GitHub Profile](https://github.com/jwgdmkj)
